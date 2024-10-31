@@ -1,5 +1,11 @@
 [
   {
+    "package": "framrosetta",
+    "url": "https://github.com/FRAMverse/framrosetta",
+    "via": ["framrsquared"],
+    "from": "framrsquared"
+  },
+  {
     "package": "xldiff",
     "url": "https://github.com/cbedwards-dfw/xldiff",
     "via": ["TAMMsupport"],
