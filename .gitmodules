@@ -1,5 +1,22 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/framverse/framverse.r-universe.dev
 	branch = HEAD
+[submodule "TAMMsupport"]
+	path = TAMMsupport
+	url = https://github.com/cbedwards-dfw/TAMMsupport
+[submodule "framrosetta"]
+	path = framrosetta
+	url = https://github.com/FRAMverse/framrosetta
+[submodule "framrsquared"]
+	path = framrsquared
+	url = https://github.com/FRAMverse/framrsquared
+[submodule "pssp"]
+	path = pssp
+	url = https://github.com/FRAMverse/pssp
+[submodule "testmaker"]
+	path = testmaker
+	url = https://github.com/cbedwards-dfw/testmaker
+[submodule "xldiff"]
+	path = xldiff
+	url = https://github.com/cbedwards-dfw/xldiff
