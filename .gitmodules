@@ -11,6 +11,9 @@
 [submodule "framrsquared"]
 	path = framrsquared
 	url = https://github.com/FRAMverse/framrsquared
+[submodule "namespacify"]
+	path = namespacify
+	url = https://github.com/cbedwards-dfw/namespacify
 [submodule "pssp"]
 	path = pssp
 	url = https://github.com/FRAMverse/pssp
