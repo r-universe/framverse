@@ -17,6 +17,9 @@
 [submodule "pssp"]
 	path = pssp
 	url = https://github.com/FRAMverse/pssp
+[submodule "rrViewer"]
+	path = rrViewer
+	url = https://github.com/cbedwards-dfw/rrViewer
 [submodule "testmaker"]
 	path = testmaker
 	url = https://github.com/cbedwards-dfw/testmaker
