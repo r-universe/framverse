@@ -2,8 +2,20 @@
   {
     "package": "framrosetta",
     "url": "https://github.com/FRAMverse/framrosetta",
+    "via": ["framqaqc", "framrsquared"],
+    "from": "framqaqc"
+  },
+  {
+    "package": "framrosetta",
+    "url": "https://github.com/FRAMverse/framrosetta",
     "via": ["framrsquared"],
     "from": "framrsquared"
+  },
+  {
+    "package": "framrsquared",
+    "url": "https://github.com/FRAMverse/framrsquared",
+    "via": ["framqaqc"],
+    "from": "framqaqc"
   },
   {
     "package": "xldiff",
