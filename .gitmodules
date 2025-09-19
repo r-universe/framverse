@@ -5,6 +5,9 @@
 [submodule "TAMMsupport"]
 	path = TAMMsupport
 	url = https://github.com/cbedwards-dfw/TAMMsupport
+[submodule "framqaqc"]
+	path = framqaqc
+	url = https://github.com/FRAMverse/framqaqc
 [submodule "framrosetta"]
 	path = framrosetta
 	url = https://github.com/FRAMverse/framrosetta
