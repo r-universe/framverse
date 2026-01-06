@@ -1,5 +1,11 @@
 [
   {
+    "package": "TAMMsupport",
+    "url": "https://github.com/cbedwards-dfw/TAMMsupport",
+    "via": ["crayolaTAMM"],
+    "from": "crayolaTAMM"
+  },
+  {
     "package": "framrosetta",
     "url": "https://github.com/FRAMverse/framrosetta",
     "via": ["framqaqc", "framrsquared"],
@@ -22,5 +28,11 @@
     "url": "https://github.com/cbedwards-dfw/xldiff",
     "via": ["TAMMsupport"],
     "from": "TAMMsupport"
+  },
+  {
+    "package": "xldiff",
+    "url": "https://github.com/cbedwards-dfw/xldiff",
+    "via": ["crayolaTAMM", "TAMMsupport"],
+    "from": "crayolaTAMM"
   }
 ]
