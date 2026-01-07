@@ -8,12 +8,6 @@
   {
     "package": "framrosetta",
     "url": "https://github.com/FRAMverse/framrosetta",
-    "via": ["TAMMsupport"],
-    "from": "TAMMsupport"
-  },
-  {
-    "package": "framrosetta",
-    "url": "https://github.com/FRAMverse/framrosetta",
     "via": ["framqaqc", "framrsquared"],
     "from": "framqaqc"
   },
