@@ -8,6 +8,12 @@
   {
     "package": "framrosetta",
     "url": "https://github.com/FRAMverse/framrosetta",
+    "via": ["TAMMsupport"],
+    "from": "TAMMsupport"
+  },
+  {
+    "package": "framrosetta",
+    "url": "https://github.com/FRAMverse/framrosetta",
     "via": ["framqaqc", "framrsquared"],
     "from": "framqaqc"
   },
@@ -26,8 +32,20 @@
   {
     "package": "openxlsx2",
     "url": "https://github.com/JanMarvin/openxlsx2",
+    "via": ["TAMMsupport", "xldiff"],
+    "from": "TAMMsupport"
+  },
+  {
+    "package": "openxlsx2",
+    "url": "https://github.com/JanMarvin/openxlsx2",
     "via": ["xldiff"],
     "from": "xldiff"
+  },
+  {
+    "package": "xldiff",
+    "url": "https://github.com/cbedwards-dfw/xldiff",
+    "via": ["TAMMsupport"],
+    "from": "TAMMsupport"
   },
   {
     "package": "xldiff",
