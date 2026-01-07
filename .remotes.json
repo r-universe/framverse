@@ -32,12 +32,6 @@
   {
     "package": "xldiff",
     "url": "https://github.com/cbedwards-dfw/xldiff",
-    "via": ["TAMMsupport"],
-    "from": "TAMMsupport"
-  },
-  {
-    "package": "xldiff",
-    "url": "https://github.com/cbedwards-dfw/xldiff",
     "via": ["crayolaTAMM", "TAMMsupport"],
     "from": "crayolaTAMM"
   }
