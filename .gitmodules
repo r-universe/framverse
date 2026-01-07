@@ -20,6 +20,10 @@
 [submodule "namespacify"]
 	path = namespacify
 	url = https://github.com/cbedwards-dfw/namespacify
+[submodule "openxlsx2"]
+	path = openxlsx2
+	url = https://github.com/JanMarvin/openxlsx2
+	registered = false
 [submodule "pssp"]
 	path = pssp
 	url = https://github.com/FRAMverse/pssp

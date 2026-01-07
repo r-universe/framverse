@@ -24,6 +24,12 @@
     "from": "framqaqc"
   },
   {
+    "package": "openxlsx2",
+    "url": "https://github.com/JanMarvin/openxlsx2",
+    "via": ["xldiff"],
+    "from": "xldiff"
+  },
+  {
     "package": "xldiff",
     "url": "https://github.com/cbedwards-dfw/xldiff",
     "via": ["TAMMsupport"],
