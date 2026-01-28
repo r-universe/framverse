@@ -32,6 +32,12 @@
   {
     "package": "openxlsx2",
     "url": "https://github.com/JanMarvin/openxlsx2",
+    "via": ["excelsior", "xldiff"],
+    "from": "excelsior"
+  },
+  {
+    "package": "openxlsx2",
+    "url": "https://github.com/JanMarvin/openxlsx2",
     "via": ["xldiff"],
     "from": "xldiff"
   },
@@ -46,5 +52,11 @@
     "url": "https://github.com/cbedwards-dfw/xldiff",
     "via": ["crayolaTAMM", "TAMMsupport"],
     "from": "crayolaTAMM"
+  },
+  {
+    "package": "xldiff",
+    "url": "https://github.com/cbedwards-dfw/xldiff",
+    "via": ["excelsior"],
+    "from": "excelsior"
   }
 ]
