@@ -8,6 +8,9 @@
 [submodule "crayolaTAMM"]
 	path = crayolaTAMM
 	url = https://github.com/cbedwards-dfw/crayolaTAMM
+[submodule "excelsior"]
+	path = excelsior
+	url = https://github.com/cbedwards-dfw/excelsior
 [submodule "framqaqc"]
 	path = framqaqc
 	url = https://github.com/FRAMverse/framqaqc
