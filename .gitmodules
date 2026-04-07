@@ -20,6 +20,10 @@
 [submodule "framrsquared"]
 	path = framrsquared
 	url = https://github.com/FRAMverse/framrsquared
+[submodule "framrsquared.dev"]
+	path = framrsquared.dev
+	url = https://github.com/FRAMverse/framrsquared
+	branch = dev
 [submodule "namespacify"]
 	path = namespacify
 	url = https://github.com/cbedwards-dfw/namespacify
